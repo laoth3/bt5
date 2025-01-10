@@ -1,0 +1,28 @@
+.h1 {
+    color: orangered;
+}
+.th {
+    background-color: orangered;
+    color: white;
+}
+table {
+    border-collapse: collapse;
+}
+th {
+    border: 2px solid black;
+}
+td {
+    border: 2px solid black;
+}
+.width {
+    width: 300px;
+}
+body {
+    background-color: rgb(236, 211, 165);
+}
+.bg {
+    background-color: white;
+}
+.center {
+    text-align: center;
+}
